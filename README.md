@@ -14,8 +14,8 @@ I have used [`ssconvert`](https://linux.die.net/man/1/ssconvert) to convert
 
 - `tidyverse`
 
-### Import Ontarion data
+### Import BSM data
 
 ```R
-dfOnt <- getOntCur()
+dfOntCur <- getOntCur('csvFiles/Ontario-Main.csv')
 ```
