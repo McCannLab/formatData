@@ -1,12 +1,12 @@
 # formatData
 
-Scripts to format lakes data.
+Scripts to format various data.
 
 ## How to create csv files
 
-I have used [`ssconvert`](https://linux.die.net/man/1/ssconvert) to convert
-`xlsx` to `csv` files automatically. Some other files have been already saved
-as `csv` files:
+[`ssconvert`](https://linux.die.net/man/1/ssconvert) is called to automatically
+convert`xlsx` files to `csv`. Some other files have already been saved as `csv`
+files:
 
 - `Hasnain_S1.csv`: Table S1 from Hasnain, Sarah S., Brian J. Shuter, and Charles K. Minns. “Phylogeny Influences the Relationships Linking Key Ecological Thermal Metrics for North American Freshwater Fish Species.” Edited by Dylan Fraser. Canadian Journal of Fisheries and Aquatic Sciences 70, no. 7 (July 2013): 964–72. https://doi.org/10.1139/cjfas-2012-0217.
 
@@ -16,12 +16,13 @@ as `csv` files:
 
 ### R packages required
 
-- `tidyverse`
+So far only functions in `base` have been used; additional packages required
+in future function will be listed below.
 
-### Import BSM data
+### Import data - examples
 
 ```R
-dfOntCur <- getOntCur('csvFiles/Ontario-Main.csv')
+dfOntCur <- getOntCur('pathXX/csvFiles/Ontario-Main.csv')
 ```
 
 ```R
