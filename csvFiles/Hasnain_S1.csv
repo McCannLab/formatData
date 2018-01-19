@@ -1,0 +1,175 @@
+Family,Scientific Names,Common Name,Temperature (°C),,,,,
+,,,OGT,FTP,ULIT,CTMax,OS,OE
+Achiridae,Trinectes maculatus,Hogchoker,,,,,22.5+/-3.5,
+Acipenseridae,Acipenser fulvescens,Lake Sturgeon,,11,,,15,14.5
+,Acipenser medirostris,Green Sturgeon,20.8 +/- 3.5,,17,34,12.1+/-1.6,15
+,Acipenser brevistronum,Shortnose Sturgeon,27.1,26.2,,34.4,11.7+/-1.1,15.3+/-4.7
+,Acipenser oxyrinchus oxyrinchus,Atlantic Sturgeon,,16,,,15.6,18.6+/-1.2
+,Acipenser transmontanus,White Sturgeon,21.0 +/- 3.5,,,,14.7+/-2.6,14.5
+,Scaphirhynchus platorynchus,Shovelnose Sturgeon,20.7+/-1.9,,,,11.7+/-1.0,15.3
+Amiidae,Amia calva,Bowfin,,30.3+/-0.4,,37,,
+Anguillidae,Anguilla rostrata,American Eel,25,19.9+/-3.7,,,,
+Atherinopsidae,Labidesthes sicculus,Brook Silverside,,24.5,30.6,,20,
+,Menidia beryllina,Inland silverside,,,,31,13.5,22.7
+Catostomidae,Carpiodes carpio,River Carpsucker,,,35.2,,21.7+/-0.3,
+,Ictiobus cyprinellus,Bigmouth Buffalo,,19.8+/-4.2,,,17.0+/-0.07,20.5
+,Catostomus catostomus,Longnose Sucker,,11.4+/-1.7,26.8+/-0.3,,10.0+/-7.1,14.95+/-3.5
+,Hypentelium nigricans,Northern Hog Sucker,25.6+/-0.4,27.0+/-1.6,29.8+/-4.2,30.8,17.5,17.4
+,Carpiodes cyprinus,Quillback,,20.5+/-6.8,,37.2+/-1.1,,
+,Minytrema melanops,Spotted Sucker,,21.8+/-6.0,,31,16.4,
+,Catostomus commersonii,White Sucker,25.5,23.4,27.8,31.6,15.8,15
+,Catostomus discobolus discobolus,Bluehead Sucker,,,,,20.1,20.5
+,Catostomus latipinnis,Flannelmouth Sucker,,25.9,,34.1+/-4.1,13.8+/-0.3,
+,Chasmistes liorus liorus,June Sucker,,,,,13,15.7+/-4.5
+,Moxostoma anisurum,Silver Redhorse,,,,,13.4+/-0.1,
+,Moxostoma macrolepidotum,Shorthead Redhorse,,26.8,,,14,15.6
+,Moxostoma erythrurum,Golden Redhorse,,,,35.4+/-1.7,,
+,Xyrauchen texanus,Razorback sucker,,,,37.9+/-1.7,,
+,Catostomus clarkii,Desert Sucker,,17.5+/-1.0,,35.6+/-0.95,,
+Centrachidae,Pomoxis nigromaculatus,Black Crappie,18.0+/-7.1,23.4+/-2.7,33.3+/-1.0,34.9,19.2+/-0.4,18.2
+,Lepomis macrochirus,Bluegill,29.2+/-2.1,30.2+/-1.8,32.2+/-2.1,40.2+/-2.1,25,23
+,Lepomis cyanellus,Green Sunfish,28,25.4+/-5.5,40,36,21.9+/-0.1,29.1
+,Micropterus salmoides,Largemouth Bass,26.6+/-1.1,28.6+/-2.4,31.9+/-3.1,38.4+/-2.4,19.2+/-1.2,20
+,Lepomis gibbosus,Pumpkinseed,25,27.7+/-2.6,31.7+/-3.4,37.6,26.0+/-2.8,28
+,Ambloplites rupestris,Rock Bass,28.4+/-0.9,24.9+/-3.9,33.9+/-1.5,36,22.2+/-1.0,22.5
+,Micropterus dolomieui,Smallmouth Bass,26,25.0+/-6.0,36.0+/-1.4,36.3,18,21
+,Pomoxis annularis,White Crappie,22.5+/-2.1,19.1+/-4.7,,32.8,17.0+/-2.0,19.2
+,Lepomis microlophus,Redear Sunfish,23.9,23.1+/-0.6,,,,23.1+/-0.8
+,Lepomis gulosus,Warmouth,,25,,,21,
+,Ambloplites constellatus,Ozark Bass,,,,,21.1+/-3.4,21
+,Lepomis humilis,Orangespotted sunfish,,20.5+/-1.7,,,,
+,Lepomis megalotis,Longear sunfish,,22.5+/-2.1,,,,
+,Enneacanthus gloriosus,Bluespotted sunfish,,29.5+/-1.7,36,37.5,,
+Clupidae,Alosa pseudoharengus,Alewife,20.1,16.9+/-4.5,23.1+/-10.2,31.3+/-1.7,13.8+/-1.2,17.8+/-5.6
+,Alosa aestivalis,Blueback Herring,,24.4+/-2.3,32.9,,20.8+/-2.1,23.0+/-2.5
+,Alosa mediocris,Hickory Shad,,,,,19.5+/-3.5,19.5
+,Alosa sapidissima,American Shad,,15.3+/-1.1,30,31.8,15.8+/-1.1,13
+,Dorosoma cepedianum,Gizzard Shad,17,20.7+/-7.6,35.5+/-1.3,31.7,22,22.2
+,Dorosoma petenense,Threadfin Shad,,,,29.3+/-3.1,23.8,25
+Cottidae,Myoxocephalus thompsoni,Deepwater Sculpin,,5,,,,
+,Myoxocephalus quadricornis,Fourhorn Sculpin,,5,,,1,
+,Cottus bairdii,Mottled Sculpin,,16.2,24.3,30.9,11.4+/-2.0,12.6
+,Cottus cognatus,Slimy Sculpin,,11,22.8,26.1,7.3+/-2.5,
+,Cottus ricei,Spoonhead Sculpin,,6,,,5,
+,Cottus hypselurus,Ozark Sculpin,,,,28.8,,
+,Cottus carolinae,Banded Sculpin,,,,31.8+/-2.1,,
+,Cottus tallapoosae,,,,,31.4+/-2.4,,
+Cyprinidae,Notropis heterodon,Blackchin Shiner,,,38,32.8,,
+,Rhinichthys atratulus,Blacknose Dace,,19.6,28.6+/-2.1,30.2+/-1.4,,
+,Pimephales notatus,Bluntnose Minnow,26.2+/-1.9,24.1+/-4.5,31.5+/-3.5,29.9+/-5.1,,
+,Cyprinus carpio,Carp,27.3,27.7,34.5,39,24,21
+,Campostoma anomalum,Central Stoneroller,24.8+/-2.5,23.9+/-4.7,31,34.3+/-3.8,,
+,Luxilus cornutus,Common Shiner,,21.9,30.4+/-1.9,31.2+/-0.7,,
+,Semotilus atromaculatus,Creek Chub,,24.9+/-4.4,29.1+/-2.8,33.0+/-3.8,,
+,Notropis atherinoides,Emerald Shiner,25.7+/-1.8,19.3+/-8.9,27.4+/-3.2,28.6,24,23.9
+,Semotilus corporalis,Fallfish,,22,,,,
+,Pimephales promelas,Fathead Minnow,25.8+/-0.4,26.6+/-2.0,31.1+/-2.4,34.1+/-3.4,19.5+/-3.9,25
+,Chrosomus neogaeus,Finescale Dace,,24.1,30.3+/-2.0,32.2,18.5,20
+,Notemigonus crysoleucas,Golden Shiner,25.0+/-1.5,21.8+/-2.8,32.0+/-1.5,33.4+/-2.9,20.3,20
+,Carassius auratus,Goldfish,26.6+/-2.2,27.4+/-2.2,34.9+/-3.7,35.8+/-1.1,21.1+/-0.8,17
+,Rhinichthys cataractae,Longnose Dace,,15.3+/-3.6,,31.4,11.7,15.6
+,Chrosomus eos,Northern Redbelly Dace,,25.3,29.2+/-3.4,29,,
+,Notropis anogenus,Pugnose Shiner,,16.5,,,,
+,Notropis rubellus,Rosyface Shiner,25.5+/-0.3,25.3+/-2.7,33,33.6+/-2.5,24.3+/-4.5,21.1
+,Cyprinella spiloptera,Spotfin Shiner,28.9+/-0.4,27.5+/-3.7,36,,,
+,Notropis hudsonius,Spottail Shiner,27.3,16.6+/-3.7,33.0+/-2.5,33.2+/-0.5,19.0+/-1.4,
+,Gila elegans,bonytail,,,,38.1+/-0.3,,
+,Gila robusta,roundtail chub,,23.8+/-0.5,,33.3+/-0.6,17.7+/-0.9,
+,Gila intermedia,gila chub,26,,,37.0+/-0.2,18.0+/-4.3,
+,Gila boraxobius,borax lake chub,,,,35,,
+,Hybognathus placitus,plains minnow,,,,39.9,,
+,Lepidomeda mollispinis,virgin spinedace,,,,33.4+/-0.4,,
+,Lythrurus umbratilis,redfin shiner,,20.5,,,21,
+,Nocomis micropogon,river chub,,21.7,,30.9,20.6+/-4.1,
+,Notropis topeka,topeka shiner,27,,,39.8,,
+,Couesius plumbeus,lake chub,,27,,,14.5,
+,Ctenopharyngodon idella,grass carp,,27.1+/-4.1,,38.8,,26.4+/-1.9
+,Hypophthalmichthys nobilis,Bighead carp,,25.4+/-1.1,,39,23.0+/-1.4,
+,Iotichthys phlegethontis,Least chub,21.7+/-0.9,,,,16,20.0+/-2.8
+,Snyderichthys copei,Northern Leatherside Chub,22.7+/-0.7,,29.0+/-1.8,32.8+/-2.3,,
+,Hybognathus hankinsoni,Brassy Minnow,,,,,11.4,
+,Clinostomus elongatus,Redside Dace,,,,,17.6,
+,Notropis percobromus,Carmine Shiner,,,,,24.5,21.1
+,Cyprinella analostana,Satinfin Shiner,,,,,22.5,25
+Cyprinodontidae,Fundulus diaphanus,Banded Killifish,,23.0+/-5.0,31.7+/-5.7,,23,24.4
+,Fundulus heteroclitus,Mummichog,24.3,25,27.6,39.8+/-3.8,,19+/-2.3
+,Cyprinodon macularius,Desert Pupfish,25.3+/-4.2,,,,28,24.3+/-6.1
+,Fundulus zebrinus,Plains Killifish,,,,41.3+/-1.1,20.0+/-0.8,21.5+/-0.7
+Esocidae,Esox americanus vermiculatus,Grass Pickerel,,25.7+/-0.3,,,9.5,8.4
+,Esox masquinongy,Muskellunge,25.1+/-1.3,25.4+/-0.6,32.2,32.0+/-2.4,12.8,13.5
+,Esox lucius,Northern Pike,23.0+/-4.2,20.7+/-2.5,31.0+/-2.0,,11.5,12.1
+,Esox niger,Chain Pickerel,,25.5,36.7,,9.7,
+,Esox americanus americanus,Redfin Pickerel,,,,,10,
+Gobiidae,Neogobius melanostomus,Round Goby,,,,31.6+/-0.5,17.5,
+Gadidae,Lota lota,Burbot,16.6,13.2+/-4.8,23.3,,1.2,7.5
+Gastrosteidae,Culaea inconstans,Brook Stickleback,,21.3,30.6,,13.1+/-0.5,18.3
+,Pungitius pungitius,Ninespine Stickleback,,16.5+/-4.4,,,,
+,Gasterosteus aculeatus,Threespine Stickleback,17.1+/-3.7,12.5+/-3.8,27.2+/-1.9,28.7,12.5,19
+Hiodontidae,Hiodon tergisus,Mooneye,,28,,,,
+,Hiodon alosoides,Goldeye,,,,,11.4,
+Ictaluridae,Ameiurus melas,Black Bullhead,,,35.4+/-0.5,37.5,20.5+/-0.7,
+,Ameiurus nebulosus,Brown Bullhead,30.0+/-1.9,26.2+/-2.6,33.4+/-3.3,37.9+/-0.1,21.1+/-1.3,22.8
+,Ictalurus punctatus,Channel Catfish,29.5+/-0.7,27.3+/-5.8,32.9+/-1.7,36.7+/-2.7,25.0+/-2.2,22.9+/-1.0
+,Noturus flavus,Stonecat,,15.3+/-13.9,,29,27.8,
+,Ameiurus natalis,Yellow Bullhead,,28.2+/-0.6,,36.4,,
+,Noturus albater,Ozark Madtom,,,,,,25
+,Noturus miurus,Bridled Madtom,,,,,,25
+,Noturus stigmosus,Northern Madtom,,,,,23,
+Lepisosteidae,Lepisosteus osseus,Longnose Gar,26.4,27.4+/-6.6,,,22.6+/-3.6,
+,Lepisosteus oculatus,Spotted Gar,,16,,,23.5,
+Percichthyidae,Morone chrysops,White Bass,,27.3+/-6.5,33.5,35.3,15.5,17.5
+,Morone americana,White Perch,28.5,29.8,36,,17.5,20
+,Morone saxatilis,Striped Bass,,,28.8+/-3.4,25.9+/-0.6,,18.2
+Osmeridae,Hypomesus transpacificus,Delta smelt,,,,25.4+/-1.7,,
+,Osmerus mordax,Rainbow Smelt,,11.2+/-3.9,21.7+/-3.2,,8.4+/-3.6,14.3+/-6.7
+Percidae,Ammocrypta pellucida,Eastern Sand Darter,,24.6+/-0.5,,,,
+,Ethestoma carolineum,Rainbow Darter,,19.9+/-0.1,,32.1,,
+,Sander canadensis,Sauger,22,19.6+/-6.7,,,10.3+/-1.5,13.5
+,Sander vitreus,Walleye,22.1,22.5+/-2.5,29.7+/-1.1,23.4,7.7+/-1.0,12.2+/-1.7
+,Perca flavescens,Yellow Perch,25.4+/-2.4,17.6+/-6.0,25.6+/-4.7,35,9.1+/-2.7,15
+,Ethestoma carolineum,Rainbow Darter,,19.9+/-0.1,,32.1,20,
+,Etheostoma jordani,Greenbreast Darter,,,,,22.5,
+,Etheostoma lepidum,Greenthroat Darter,,,,,21.5,
+,Etheostoma olmstedi,Tessellated Darter,,22.8,,,15.5,
+,Etheostoma gracile,Slough Darter,,,,,,22.8
+,Etheostoma nigrum,Johnny Darter,,22.8,,32.4+/-2.9,16.5,
+,Etheostoma percnurum,Duskytail Darter,,,,,20.5+/-0.3,22.2
+,Etheostoma perlongum,Waccamaw Darter,,,,,,21.5
+,Etheostoma barbouri,Teardrop Darter,,,,,14,
+,Gymnocephalus cernua,Ruffe,,,,,,16
+,Percina pantherina,Leopard Darter,,,,,14.5,
+,Percina peltata,Shield Darter,,,,,12.8,
+,Sander lucioperca,Pike-perch,28,,,,9,15.8
+,Etheostoma cragini,Arkansas Darter,,,,36.7,,
+,Etheostoma spectabile,Orangethroat  Darter,26,,,31.4+/-0.5,,
+,Etheostoma flabellare,Fantail Darter,,,,33.4+/-3.8,,
+,Etheostoma blennioides,Greenside darter,,,,32.2+/-0.1,,
+Percopsidae,Percopsis omiscomaycus,Trout-Perch,,13.4+/-3.5,,22.9,,
+Petromyzontidae,Petromyzon Marinus,Sea Lamprey,17.5+/-3.5,10.3+/-3.4,31.4,,15.4+/-0.5,18.5
+,Ichthyomyzon fossor,Northern Brook Lamprey,,,,,17.9+/-3.3,
+,Ichthyomyzon gagei,Southern Brook Lamprey,,,,,19,
+,Lampetra tridentata,Pacific Lamprey,,,,,12.5,
+Poecillidae,Gambusia affinis,Mosquitofish,30,27.1+/-0.2,,37.8+/-5.8,,
+,Gambusia holbrooki,Eastern Mosquitofish,,,36.4+/-1.3,40.0+/-0.2,,
+Salmonidae,Thymallus arcticus arcticus,Arctic Grayling,,,,26.9,6,12.8+/-5.3
+,Salvelinus alpinus alpinus,Arctic Char,11.0+/-3.5,10.5+/-1.4,22.0+/-0.6,33.8+/-1.8,,
+,Oncorhynchus gilae,Gila Trout,,,,,8,
+,Salvelinus confluentus,Bull Trout,,,22.2+/-1.8,27.6+/-1.2,,
+,Salmo salar,Atlantic Salmon,13.6+/-2.1,15.3+/-2.3,27.6+/-0.2,32.8+/-0.1,,
+,Coregonus hoyi,Bloater,18.6,8.5,26.5,,,
+,Salvelinus fontinalis,Brook Trout,14.2+/-1.5,14.8+/-0.8,24.9+/-0.6,29.3+/-0.8,10.7,6.1
+,Salmo trutta,Brown Trout,12.6+/-2.3,15.7+/-2.1,25.0+/-0.4,28.3+/-2.2,7.8,7.5
+,Oncorhynchus tshawytscha,Chinook Salmon,14.3+/-2.0,13.8+/-2.5,23.5+/-1.8,25.1,,
+,Oncorhynchus keta,Chum Salmon,13,14.1+/-0.1,,,,
+,Oncorhynchus kisutch,Coho Salmon,13.6+/-4.1,14.4+/-2.9,24.3+/-1.3,27.6+/-1.6,6.1,7.2
+,Oncorhynchus clarkii,Cutthroat Trout,17.8+/-5.9,14.9,21.4+/-2.1,28.0+/-1.9,,
+,Coregonus artedii,"Lake Herring, Cisco",18.1,12.4+/-3.7,23.9+/-2.9,,3.3,5.6
+,Coregonus kiyi,Kiyi,,4.2,,,2.8+/-0.3,
+,Salvelinus namaycush,Lake Trout,10,11.8+/-1.5,24.3+/-1.1,,,
+,Coregonus clupeaformis,Lake Whitefish,14.7,12.7,23.9,,3.3,5
+,Oncorhynchus gorbuscha,Pink Salmon,15.5,13.0+/-1.8,,,10,7.3
+,Oncorhynchus mykiss,Rainbow Trout,15.6+/-2.4,15.5+/-3.5,25.0+/-2.3,22.1+/-6.5,7,8.9
+,Proposium cylindraceum,Round Whitefish,,8.3+/-8.0,,,3.8+/-1.1,3
+,Oncorhynchus nerka,Sockeye Salmon,15,13.7+/-1.0,27.8+/-1.4,,8.6+/-0.3,8.3
+Sciaenidae,Aplodinotus grunniens,Freshwater Drum,22,24.6+/-6.2,32.8,34,21,23.9
+Umbridae,Umbra limi,Central Mudminnow,,,33.5+/-6.4,,,

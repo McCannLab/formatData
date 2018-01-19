@@ -1,4 +1,5 @@
 #' @description Function to import BSM data
+#' @param file path to the csv file.
 
 getOntCur <- function(file) {
   out <- read.table(file, stringsAsFactors = F, skip=5, header=F, sep=',', dec='.')
