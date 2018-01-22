@@ -14,9 +14,12 @@ files:
 
 For some files, data were retrieved from `pdf` files. In such case, it is very
 convenient to first turn the `pdf` into a `txt` files, then purge not relevant data
-and finally create a small piece of code to get data.
+and finally create a small piece of code to get data. regarding the first step
+`pdftotext -layout`.
 
-- Summary of findings from catch-and-release studies, appendix 1; available on line at https://www.ontario.ca/document/catch-and-release-fish-handling
+- `Casselman2005_A1.txt`: summary of findings from catch-and-release studies,
+appendix 1 of Casselman and Stephen (2005); available on line at
+https://www.ontario.ca/document/catch-and-release-fish-handling
 Casselman, Stephen J, Ontario, and Fish and Wildlife Branch. Catch-and-Release Angling: A Review with Guidelines for Proper Fish Handling Practices. Peterborough, Ont.: Fish & Wildlife Branch, 2005.
 
 
