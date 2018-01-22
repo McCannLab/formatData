@@ -26,5 +26,7 @@ dfOntCur <- getOntCur('pathXX/csvFiles/Ontario-Main.csv')
 ```
 
 ```R
+source('R/getHasnainS1.R')
 dfFishCharact <- getHasnainS1('csvFiles/Hasnain_S1.csv')
+save(dfFishCharact, file = 'dfFishCharact.rda', compress = 'xz')
 ```
