@@ -1,4 +1,4 @@
-#' @description Function to import Table S1 from Hasnain et al.
+#' @description Function to import Table S1 from Hasnain et al. (2013)
 #' @param file path to the csv file.
 
 #' @reference

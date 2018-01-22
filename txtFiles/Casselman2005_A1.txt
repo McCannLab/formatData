@@ -1,0 +1,161 @@
+Appendix 1: Summary of findings from catch-and-release studies.
+
+Species                 N       Days      % Mortality         Reference
+
+Blue catfish            52         3          5.1        Muoneke, 1993
+
+Channel catfish        214         3           19        Ott and Storey, 1993
+Channel catfish        704         6           33        Rutledge, 1975
+Channel catfish        14         <1           0         Tilyou and Hoenke, 1992
+
+Flathead catfish        52         3          11.5       Muoneke, 1993
+
+Yellow bullhead         20        <1           0         Tilyou and Hoenke, 1992
+
+Muskellunge             NA        3.5          30        Beggs et al., 1980
+
+Northern pike          242        5-16       0-4.8       Burkholder, 1992
+Northern pike           94        4-10        6.4        Falk and Gilman, 1975
+Northern pike          185         2         1-33        Dubois et al., 1994
+
+Tiger muskellunge      217         1          9.7        Newman and Storck, 1986
+
+Artic grayling         180         2          0.6        Clark, 1991
+Artic grayling         158        4-10        5.1        Falk and Gilman, 1975
+
+Atlantic salmon         300     10-14        0.3-5.7     Warner, 1976
+Atlantic salmon        149         5           13        Warner, 1978
+Atlantic salmon         177       2-5         4-35       Warner and Johnson, 1978
+Atlantic salmon        1221      3-14          5.1       Warner, 1979
+Atlantic salmon          20        NA            0        Booth et al., 1994
+
+Brook trout            550        7-10        1-57       Shetter and Allison, 1955
+Brook trout            806         1           2.6       Shetter and Allison, 1958
+Brook trout            630         2           4.3       Nuhfer and Alexander, 1992
+
+Brown trout            490        14          13.5       Hulbert and Engstrom-Heg, 1980
+
+Brown trout            107         1           0.9       Shetter and Allison, 1958
+Brown trout            197        NA          0-28       Shetter and Allison, 1955
+Brown trout            215        10          3-7        Barwick, 1985
+
+Chinook salmon         888        4-6         22.1       Wertheimer et al., 1989
+Chinook salmon         506         5         21-25       Wertheimer, 1988
+Chinook salmon         100        1-5          10        Bendock and Alexandersdotitir, 1991
+
+Chinook salmon     245      5        6-11       Bendock and Alexandersdotitir, 1991
+Chinook salmon    3618      NA       11.8       Butler and Loeffel, 1972
+Chinook salmon     66       2        9.1        Natural Research Consultants, 1989
+
+Coho salmon        85      35        42-55      Milne and Ball, 1956
+Coho salmon       147       2         6.8       Natural Research Consultants, 1989
+Coho salmon       4861     NA        18.4       Butler and Loeffel, 1972
+Coho salmon       384      NA        69.3       Vincent-Lang et al., 1993
+
+Cutthroat trout    652     30      5.11-5.5     Marnell and Hunsaker, 1970
+Cutthroat trout    690     30         3.8       Dotson, 1982
+Cutthroat trout    509     10        5-73       Hunsaker et al., 1970
+Cutthroat trout   72698    NA         0.3       Schill et al., 1986
+Cutthroat trout    578      4      1.37-48.5    Titus and Vanicek, 1988
+
+Lake trout        129      4-10      6.98       Falk et al., 1974
+Lake trout         67       2        14.9       Loftus et al., 1988
+Lake trout        50        2         10        Dextrase and Ball, 1991
+
+Rainbow trout     100     120          95       Mason and Hunt, 1967
+Rainbow trout     1000      3         1-10      Klein, 1965
+Rainbow trout     159       NA       11-35      Shetter and Allison, 1955
+Rainbow trout     300      120      34.5-82     Mason and Hunt, 1967
+Rainbow trout      38       10        5-39      Barwick, 1985
+Rainbow trout     574        2      5.7-36      Stringer, 1967
+Rainbow trout      65       1-2        20       Faccin, 1983
+Rainbow trout     346        1         5.2      Shetter and Allison, 1958
+Rainbow trout     900       28         2.1      Jenkins, 2003
+Rainbow trout     281     29-34        16       Schill, 1996
+
+Striped bass       576       3     1.87-70.39   May, 1990
+Striped bass       307       3        38.1      Hysmith et al., 1992
+Striped bass       113       3        0-69      Childress, 1989a
+Striped bass       464     14        16-17      Harrel, 1988
+Striped bass       215    30-40      15-29      Diodati, 1991
+Striped bass        89     >3        14-67      Bettoli and Osborne, 1998
+Striped bass       153      3          6.4      Nelson, 1998
+
+Palmetto bass      89       3        1-29       Childress, 1989a
+
+White bass        122       3         0.8       Childress, 1989a
+
+
+Yellow bass        5      <1         60        Tilyou and Hoenke, 1992
+
+Black sea bass     64      2         4.7       Bugley and Shepherd, 1991
+
+Crappie            15     <1          0        Tilyou and Hoenke, 1992
+
+Black crappie     202     <1        19-77      Childress, 1989b
+
+White crappie     226     6-11       3         Hubbard and Miranda, 1991
+White crappie     69      18         29        Childress, 1989b
+White crappie     43       3        9.3        Muoneke, 1992a
+White crappie      13    ≤504       15.4       Colvin, 1991
+
+Bluegill          170      3       1.1-25.3    Muoneke, 1992b
+Bluegill          210      3         0-18      Burdick and Wydoski, 1989
+Bluegill           75     10        30-88      Siewert and Cave, 1990
+Bluegill          200      7         4-14      Barthel et al., 2003
+Bluegill          685      3          1.3      Cooke et al., 2003b
+
+Pumpkinseed       175      3          0        Cooke et al., 2003b
+
+Rock bass          80      5          0        Cooke et al., 2001
+
+Black bass          NA      NA        5        Lee, 1989
+
+Largemouth bass   1106     1-2      3-16       Bennett et al., 1989
+Largemouth bass   3283    <1         14        Schramm et al., 1985
+Largemouth bass   3129    28         32        Seidensticker, 1977
+Largemouth bass    261    14        19.4       Archer and Loyacano, 1975
+Largemouth bass   1351      6        38        Rutledge and Pritchard, 1975
+Largemouth bass   1422    7-23       30        May, 1973
+Largemouth bass   1863    19        14.3       Welborn and Barkley, 1974
+Largemouth bass    NA    14-21      26.7       Schramm et al., 1987
+Largemouth bass   285     60        11.2       Pelzman, 1978
+Largemouth bass    NA        2        3.2       Hartley and Moring, 1991
+
+Smallmouth bass    70      7         0-11      Clapp and Clark, 1989
+Smallmouth bass   634     20       4.2-47.3    Weidlein, 1989
+Smallmouth bass    NA      2          8.9      Hartley and Moring, 1991
+Smallmouth bass   458     NA         0-8.5      Bennett et al., 1989
+Smallmouth bass   61       2          4.9      Jackson and Willis, 1991
+Smallmouth bass   238      3           0       Dunmall et al., 2001
+
+Guadalupe bass     85       3        2.4        Muoneke, 1991
+
+Spotted bass       47       3         8.5       Muoneke, 1992a
+
+Walleye            180     12         1.1       Fletcher, 1987
+Walleye            865      5         40        Goeman, 1991
+Walleye             47      3          0        Parks and Kraai, 1991
+Walleye            2357     3         21        Fielder and Johnson, 1992
+Walleye            NA     14-28      5-16       Payer et al., 1989
+Walleye            240      2         0.8       Schaefer, 1989
+Walleye            123      1         23        Rowe and Esseltine, 2002
+
+Sauger             74      <1         4         Bettoli et al., 2000
+
+Black drum         19      <1         0         Martin et al., 1987b
+Black drum         325     NA         0         Martin et al., 1987a
+
+Red drum           171     <1         0         Martin et al., 1987b
+Red drum           121      3        4.13       Matlock et al., 1993
+Red drum            38      3        44.7       Childress, 1989a
+Red drum           968     NA        0.21       Martin et al., 1987a
+
+Spotted seatrout   401      7          37       Hegen et al., 1983
+Spotted seatrout    43     <1        20-70      Martin et al., 1987b
+Spotted seatrout   52      7-9       0-56       Matlock and Dailey, 1981
+Spotted seatrout   NA       7        17-27      Hegen et al., 1987
+Spotted seatrout   124      3         7.29      Matlock et al., 1993
+Spotted seatrout   127     NA        16.54      Martin et al., 1987a
+
+White seabass      221     90         10        Aalbers et al., 2004
