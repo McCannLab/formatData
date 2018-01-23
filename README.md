@@ -27,13 +27,12 @@ Casselman, Stephen J, Ontario, and Fish and Wildlife Branch. Catch-and-Release A
 
 ### R packages required
 
-So far only functions in `base` have been used; additional packages required
-in future function will be listed below.
+- `ùmagrittr`
 
 ### Import data - examples
 
 ```R
-dfOntCur <- getOntCur('pathXX/csvFiles/Ontario-Main.csv')
+dfOntCur <- getOntCur(file = 'pathXX/csvFiles/Ontario-Main.csv')
 ```
 
 ```R

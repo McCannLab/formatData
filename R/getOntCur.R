@@ -2,9 +2,9 @@
 #' @param file path to the csv file.
 
 getOntCur <- function(file) {
-  out <- read.table(file, stringsAsFactors = F, skip=5, header=F, sep=',', dec='.')
-  nm1 <- read.table(file, stringsAsFactors = F, skip=2, nrow=1, header=F, sep=',', dec='.')
-  nm2 <- read.table(file, stringsAsFactors = F, skip=4, nrows=1, header=F, sep=',', dec='.') %>% as.numeric
+  out <- read.table(file, stringsAsFactors = F, skip = 5, header = F, sep = ',', dec = '.')
+  nm1 <- read.table(file, stringsAsFactors = F, skip = 2, nrow = 1, header = F, sep = ',', dec = '.')
+  nm2 <- read.table(file, stringsAsFactors = F, skip = 4, nrows = 1, header = F, sep = ',', dec = '.') %>% as.numeric
   #
   nm1 %<>% gsub(pat="\\(|\\)| ", rep = "_")
   nm1 %<>% gsub(pat="_+", rep = "_")

@@ -8,4 +8,5 @@ buildcsv:
 	fi
 	cd $(drop); ssconvert -S ON_JP_Swe_Data_2017v_4.xlsx csvFiles/%s.csv
 	cd $(drop); ssconvert -S Ontario_Historical.xlsx csvFiles/%s.csv
+	cd $(drop); ssconvert -S Supporting\ Docs/Ontario/SPC_Listed_2014.xlsx csvFiles/%s.csv
 	# cd $(drop); ssconvert -S ON_JP_Swe_Data_2017v2.xlsx $(cur)/inst/csvFiles/%s.csv
