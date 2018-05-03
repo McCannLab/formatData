@@ -27,7 +27,7 @@ Casselman, Stephen J, Ontario, and Fish and Wildlife Branch. Catch-and-Release A
 
 ### R packages required
 
-- `ùmagrittr`
+- `magrittr`
 
 ### Import data - examples
 
