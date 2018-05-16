@@ -22,5 +22,7 @@ getHasnainS1 <- function(file) {
   for (i in 4:9) {
     out[i] <- as.numeric(unlist(lapply(strsplit(out[,i], split = "\\+/-"), function(x) x[1L])))
   }
+
+  names(out)[1:3] <- c("family", "scientificName", "commonName")
   out
 }
