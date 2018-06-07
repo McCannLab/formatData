@@ -12,7 +12,8 @@ getHasnainS6 <- function(file) {
   out$Reference <- gsub(out$Reference, pat = "\n", rep= "", fixed = TRUE)
   out$Reference.1 <- gsub(out$Reference.1, pat = "\n", rep= "", fixed = TRUE)
 
-  names(out)<- gsub(names(out), pat = ".", rep = "", fixed = TRUE)
+  names(out) <- gsub(names(out), pat = ".", rep = "", fixed = TRUE)
+  names(out)[3] <- "ScientificName"
 
   out
 }
