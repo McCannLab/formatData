@@ -8,7 +8,8 @@ Scripts to format various data.
 convert `xlsx` files to `csv`. Some other files have already been saved as `csv`
 files:
 
-- `Hasnain_S1.csv`: Table S1 from Hasnain, Sarah S., Brian J. Shuter, and Charles K. Minns. “Phylogeny Influences the Relationships Linking Key Ecological Thermal Metrics for North American Freshwater Fish Species.” Edited by Dylan Fraser. Canadian Journal of Fisheries and Aquatic Sciences 70, no. 7 (July 2013): 964–72. https://doi.org/10.1139/cjfas-2012-0217.
+- `Hasnain_S1.csv`, `Hasnain_S6.csv`: Table S1 and S6 respectively from Hasnain, Sarah S., Brian J. Shuter, and Charles K. Minns. “Phylogeny Influences the Relationships Linking Key Ecological Thermal Metrics for North American Freshwater Fish Species.” Edited by Dylan Fraser. Canadian Journal of Fisheries and Aquatic Sciences 70, no. 7 (July 2013): 964–72. https://doi.org/10.1139/cjfas-2012-0217.
+
 
 ## About txtFiles
 
@@ -28,6 +29,9 @@ Casselman, Stephen J, Ontario, and Fish and Wildlife Branch. Catch-and-Release A
 ### R packages required
 
 - `magrittr`
+- `letiRmisc` see https://github.com/inSileco/letiRmisc
+- `taxize`
+- `rfishbase`
 
 ### Import data - examples
 
@@ -39,6 +43,13 @@ dfOntCur <- getOntCur(file = 'pathXX/csvFiles/Ontario-Main.csv')
 source('R/getHasnainS1.R')
 df_hasnain <- getHasnainS1('csvFiles/Hasnain_S1.csv')
 save(df_hasnain, file = 'df_hasnain.rda', compress = 'xz')
+```
+
+
+```R
+source('R/getHasnainS6.R')
+df_hasnain_S6 <- getHasnainS6('csvFiles/Hasnain_S6.csv')
+save(df_hasnain_S6, file = 'df_hasnain_S6.rda', compress = 'xz')
 ```
 
 ```R
