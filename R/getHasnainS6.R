@@ -8,8 +8,11 @@ getHasnainS6 <- function(file) {
 
   out <- read.table(file, header = T, skip = 0, sep = ',', dec ='.',
     stringsAsFactors = FALSE, na.strings = c("N/A*", "-"))
-   out$Reference <- gsub(out$Reference, pat = "\n", rep= "", fixed = T)
-   out$Reference.1 <- gsub(out$Reference.1, pat = "\n", rep= "", fixed = T)
+
+  out$Reference <- gsub(out$Reference, pat = "\n", rep= "", fixed = TRUE)
+  out$Reference.1 <- gsub(out$Reference.1, pat = "\n", rep= "", fixed = TRUE)
+
+  names(out)<- gsub(names(out), pat = ".", rep = "", fixed = TRUE)
 
   out
 }
