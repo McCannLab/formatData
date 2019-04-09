@@ -39,18 +39,26 @@ Casselman, Stephen J, Ontario, and Fish and Wildlife Branch. Catch-and-Release A
 dfOntCur <- getOntCur(file = 'pathXX/csvFiles/Ontario-Main.csv')
 ```
 
+- Table S1
+
 ```R
 source('R/getHasnainS1.R')
 df_hasnain <- getHasnainS1('csvFiles/Hasnain_S1.csv')
 save(df_hasnain, file = 'df_hasnain.rda', compress = 'xz')
+# saveRDS(df_hasnain, "df_hasnain.rds")
 ```
 
+
+- Table S6 includes Reproductive Guild
 
 ```R
 source('R/getHasnainS6.R')
 df_hasnain_S6 <- getHasnainS6('csvFiles/Hasnain_S6.csv')
 save(df_hasnain_S6, file = 'df_hasnain_S6.rda', compress = 'xz')
+# saveRDS(df_hasnain_S6, "df_hasnain_S6.rds")
 ```
+
+
 
 ```R
 source('R/getCasselmanA1.R')
